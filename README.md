@@ -1,4 +1,4 @@
 # SRA
 ## Health Data Pipeline
 
-<img width="1517" alt="image" src="https://github.com/user-attachments/assets/56342ea9-e7ff-4c3a-bf07-7911fe19a224" />
+<img width="1619" alt="image" src="https://github.com/user-attachments/assets/7b935301-9f3c-4251-953c-349b3b575967" />
